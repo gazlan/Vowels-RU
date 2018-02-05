@@ -1,0 +1,7 @@
+-*-   Vowels   *   Copyright (c) gazlan@yandex.ru, 2015   -*-
+
+Vowels detector
+
+Usage: vowels.com wildcards
+
+complains_n_suggestions direct to gazlan@yandex.ru
